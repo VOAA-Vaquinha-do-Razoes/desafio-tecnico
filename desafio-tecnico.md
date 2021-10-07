@@ -17,7 +17,7 @@ Você deverá criar uma aplicação web para receber doações e um admin para a
   - Campos para filtrar relatórios por período (data inicial e final) e status do pagamento (em andamento, aprovado e estornado)
   - Botão para exportar relatórios (CSV ou XLS)
 
-* Campos obrigatórios
+\* Campos obrigatórios
 
 ### Requisitos Opcionais
 
