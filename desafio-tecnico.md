@@ -8,6 +8,7 @@ Você deverá criar uma aplicação web para receber doações e um admin para a
 
 - Fluxo de checkout para pagamento de doações
   - Passo 1: Captura dos dados do doador, contendo os campos nome\*, email\*, CPF\*, e telefone (com DDD)
+    - email e CPF devem ser únicos no sistema
   - Passo 2: Captura do valor da doação e opção para doar anonimamente
   - Passo 3: Página de Pagamento, com opção de escolha da forma de pagamento
   - Passo 4: Página de confirmação do pagamento
@@ -21,7 +22,6 @@ Você deverá criar uma aplicação web para receber doações e um admin para a
 
 ### Requisitos Opcionais
 
-- Autenticação de usuário (doador e admin)
 - Página da Campanha ([exemplo](https://voaa.me/motoboy-humilhado-restaurante))
 - Listagem pública de doadores ([exemplo](https://voaa.me/motoboy-humilhado-restaurante/donors/1))
 
