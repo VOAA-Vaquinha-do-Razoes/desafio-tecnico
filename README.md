@@ -48,7 +48,7 @@ A sua solução será avaliada pela equipe de TI da VOAA.me, com base nos seguin
 - **Manutenibilidade e extensibilidade:** O código escrito é de fácil leitura? O quão fácil é criar novas funcionalidades na solução existente?
 - **Arquitetura e Design:** Como está desenhada a arquitetura da solução? As responsabilidades estão bem definidas? Foi utilizada alguma técnica para guiar o desenvolvimento?
 - **Qualidade de Código e Testes:** Foi utilizada alguma ferramenta de estilo de código para a linguagem? A solução possui testes unitários? É fácil alterar os testes caso haja modificação na solução?
-- **Segurança:** O sistema está expondo dados sensíveis? Os requisitos de anonimização de dados foi respeitado? Quais foram as técnicas e recursos utilizados para previnir isso?
+- **Segurança:** O sistema está expondo dados sensíveis? Quais foram as técnicas e recursos utilizados para previnir isso? Os requisitos de anonimização de dados foi respeitado?
 
 ### O que NÃO será avaliado
 
