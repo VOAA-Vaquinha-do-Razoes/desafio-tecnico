@@ -1,8 +1,6 @@
 # Desafio para Desenvolvedor(a) JavaScript Full Stack - VOAA.me
 
-Antes de mais nada, obrigado pelo seu interesse em traalhar numa das maiores plataformas de financiamento coletivo do país e nos ajudar a mudar o final de histórias.
-
-Este desafio técnico foi inspirado nos desafios do [VAGAS.com](https://github.com/VAGAS/), [PicPay](https://github.com/PicPay), e [Delivery Much](https://github.com/delivery-much/). Sinta-se a vontade para criar um fork desse desafio!
+Antes de mais nada, obrigado pelo seu interesse em trabalhar numa das maiores plataformas de financiamento coletivo do país e nos ajudar a mudar o final de histórias.
 
 ## Considerações iniciais sobre o desafio
 
@@ -71,3 +69,9 @@ A sua solução será avaliada pela equipe de TI da VOAA.me, com base nos seguin
 Esperamos que você se divirta codificando essa solução. Estamos aqui (vagas@gruporazoes.com.br) caso surjam dúvidas durante o desenvolvimento.
 
 Bom código! ;)
+
+---
+
+Este desafio técnico foi inspirado nos desafios do [VAGAS.com](https://github.com/VAGAS/), [PicPay](https://github.com/PicPay), e [Delivery Much](https://github.com/delivery-much/).
+
+Sinta-se a vontade para criar um fork!
