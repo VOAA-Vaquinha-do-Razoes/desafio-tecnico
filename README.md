@@ -1,6 +1,6 @@
 # Desafio para Desenvolvedor(a) JavaScript Full Stack - VOAA.me
 
-Antes de mais nada, obrigado pelo seu interesse em trabalhar numa das maiores plataformas de financiamento coletivo do país e nos ajudar a mudar o final de histórias.
+Obrigado pelo seu interesse em trabalhar na [VOAA](https://voaa.me), uma das maiores plataformas de financiamento coletivo do país, e nos ajudar a mudar o final de histórias de milhares de pessoas!
 
 ## Considerações iniciais sobre o desafio
 
