@@ -33,8 +33,6 @@ Crie uma documentação breve sobre a sua solução, com explicação sobre a ar
 
 Esperamos também um passo a passo de como executar a sua solução. Quanto mais simples, melhor. Vale ressaltar que a execução **não poderá depender do uso de alguma IDE específica**.
 
-A utilização de Docker é um plus ;)
-
 ## Avaliação
 
 A sua solução será avaliada pela equipe de TI da VOAA.me, com base nos seguintes critérios:
